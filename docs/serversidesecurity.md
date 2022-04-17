@@ -3,9 +3,9 @@
 ### Learning
 
 * [Code Injection - OWASP](https://www.owasp.org/index.php/Code_Injection)
-* [Command Injection - OWASP](https://www.owasp.org/index.php/Command_Injection)
-* [Testing for Command Injection (OTG-INPVAL-013) - OWASP](https://www.owasp.org/index.php/Testing_for_Command_Injection_(OTG-INPVAL-013))
-* [Testing for Remote File Inclusion - OWASP](https://www.owasp.org/index.php/Testing_for_Remote_File_Inclusion)
+* [Command Injection - OWASP](https://owasp.org/www-community/attacks/Command_Injection)
+* [Testing for Command Injection (OTG-INPVAL-013) - OWASP](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/12-Testing_for_Command_Injection)
+* [Testing for Remote File Inclusion - OWASP](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.2-Testing_for_Remote_File_Inclusion)
 
 ### Writeups
 
